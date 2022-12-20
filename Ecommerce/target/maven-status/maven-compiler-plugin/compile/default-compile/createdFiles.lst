@@ -1,0 +1,11 @@
+viewmodel\MainViewModel.class
+view\AddProductWindow.class
+view\ViewProductsWindow$1.class
+view\ViewProductsWindow.class
+viewmodel\ViewProductsViewModel.class
+model\ProductItem.class
+view\MainWindow$1.class
+view\MainWindow.class
+viewmodel\AddProductViewModel.class
+view\AddProductWindow$1.class
+model\Node.class
